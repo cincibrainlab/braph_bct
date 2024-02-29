@@ -1,5 +1,5 @@
 # vHTP External Dependencies
-## Source files in single respository for reproducibility and publications.
+## List of Source files in single respository for reproducibility and publications.
 
 We have bundled several commonly used dependencies for the vHTP toolkit:
 
